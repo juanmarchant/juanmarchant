@@ -11,5 +11,5 @@
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Python** , **Django** and **PostgreSQL**
 - 💬 Ping me about **deployment**, **design thinking**
-- 📫 Reach me: [twitter.com/juanmarchant_] (https://twitter.com/juanmarchant_) or [instagram.com/juanmarchant__](https://instagram.com/juanmarchant__)
+- 📫 Reach me: [twitter.com/juanmarchant_](https://twitter.com/juanmarchant_) or [instagram.com/juanmarchant__](https://instagram.com/juanmarchant__)
 - <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" width="20" /> Fun fact: I'm a huge fan of twitch content
