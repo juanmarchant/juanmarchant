@@ -3,12 +3,15 @@
 #### I'm a Full-Stack Web Developer working in Santiago, Chile.
 
 ##### NOW
+- 📚 I finsished the Python course! 
+- 📚 I am currently finishing courses on Django for more experience
 
-- 📚 I am currently finishing courses on Python and Django for more experience
+##### HOST
+- 💻 I use **pythonanywhere** or **heroku** for hosting my projects
 
 ##### BIO
 
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.py`, `.html`, `.css`
 - 🌱 Learning all about **Python** , **Django** and **PostgreSQL**
 - 💬 Ping me about **deployment**, **design thinking**
 - 📫 Reach me: [twitter.com/juanmarchant_](https://twitter.com/juanmarchant_) or [instagram.com/juanmarchant__](https://instagram.com/juanmarchant__)
