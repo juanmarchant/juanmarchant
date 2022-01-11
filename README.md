@@ -1,6 +1,6 @@
 ### Hi there <img src="https://c.tenor.com/l2qiDq_FSooAAAAi/pepe-pepe-melt-down.gif" width="15" />
 
-#### I'm a Full-Stack Web Developer working in Santiago, Chile.
+#### I'm a Django Web Developer based in Santiago, Chile.
 
 ##### NOW
 - 📚 I finsished the Python course! 
